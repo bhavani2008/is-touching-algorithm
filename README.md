@@ -1,2 +1,2 @@
-# is-touching-algorithm
-making the shape change colour and touch the other shape
+# p5.play-boilerplate
+Boiler plate for p5.play
